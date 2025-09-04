@@ -2,6 +2,10 @@
 __pycache__/
 *.py[codz]
 *$py.class
+884_assignment_cse732.zip
+884_CSE732.pdf
+demo.mp4
+
 
 # C extensions
 *.so
